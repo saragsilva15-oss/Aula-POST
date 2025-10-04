@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Maldição",
+        "autor": "Alice",
+        "ano": 2014,
+        "quantidade": 1
+    },
+    {
+        "id": 2,
+        "nome": "Felicidade",
+        "autor": "Sara",
+        "ano": 2000,
+        "quantidade": 3
+    }
+    
+
+]
